@@ -14,7 +14,6 @@ This repository contains a script for detecting cyberbullying using a neural net
 
   It also extracts feature importances using permutation importance and plots the loss curve.
 
-<<<<<<< HEAD
 ## Description
 
 This project aims to detect cyberbullying using a neural network model. The dataset used for this project can be found at [Kaggle](https://www.kaggle.com/datasets/datadrivenx/cyberbullying-detection-dataset-for-online-content/data). The script preprocesses the data, trains a neural network model, evaluates its performance, and extracts feature importances.
