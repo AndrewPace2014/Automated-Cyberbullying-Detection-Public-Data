@@ -1,0 +1,15 @@
+# Automated Cyberbullying Detection
+# ReadMe genearted by Copilot
+
+This repository contains a script for detecting cyberbullying using a neural network model. The dataset used for this project can be found at [Mendeley Data] (https://www.kaggle.com/datasets/datadrivenx/cyberbullying-detection-dataset-for-online-content/data).
+
+## Files
+
+- `Explore.py`: 
+1) This script loads the dataset, preprocesses the data,
+2) trains a neural network model,
+3) and evaluates its performance. 
+
+It also extracts feature importances using permutation importance and plots the loss curve.
+
+# All Kaggle data found in the repo is from a public dataset. Only CB_Labels.csv is used
