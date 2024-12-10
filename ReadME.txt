@@ -4,7 +4,6 @@
 This repository contains a script for detecting cyberbullying using a neural network model. The dataset used for this project can be found at [Kaggle](https://www.kaggle.com/datasets/datadrivenx/cyberbullying-detection-dataset-for-online-content/data).
 =======
 This repository contains a script for detecting cyberbullying using a neural network model. The dataset used for this project can be found at [Kaggle] (https://www.kaggle.com/datasets/datadrivenx/cyberbullying-detection-dataset-for-online-content/data).
->>>>>>> 22da3be71c739d121f210224787f8ea4eae196e6
 
 ## Files
 
@@ -64,4 +63,3 @@ Extracting feature importances using permutation importance:
 Generating the confusion matrix:
 =======
 # All Kaggle data found in the repo is from a public dataset. Only CB_Labels.csv is used
->>>>>>> 22da3be71c739d121f210224787f8ea4eae196e6
